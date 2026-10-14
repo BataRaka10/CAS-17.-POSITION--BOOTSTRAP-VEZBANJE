@@ -1,0 +1,207 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+/* ? pozicije */
+
+/* domaci */
+
+.img {
+    width: 400px;
+}
+
+.naslov {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: white;
+}
+
+
+.plava {
+    background: blue;
+    position: relative;
+}
+
+.img2 {
+    width: 340px;
+}
+
+.naslov2 {
+    color: white;
+    top: 30px;
+    left: 30px;
+}
+
+
+.domaci {
+    position: relative;
+}
+
+.img3 {
+    width: 100%;
+    height: 100vh;
+}
+
+.naslov3 {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+/* .img {
+    width: 350px;
+}
+
+.plava {
+    background: blue;
+    position: relative;
+} */
+
+/* top 0 =  od vrha 0px */
+/* .naslov {
+    position: absolute;
+    top: 30px;
+    top: 0;
+    left: 30px;
+    color: white;
+
+    color: black;
+} */
+
+
+/* vezba */
+
+
+
+
+
+
+
+
+
+/* .img2 {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    position: relative;
+}
+
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+} */
+
+
+
+
+
+
+
+
+/* .img {
+    width: 350px;
+}
+
+.plava {
+    background: blue;
+    position: relative;
+}
+
+.naslov {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: white;
+} */
+
+
+
+/* domaci */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .img {
+    width: 350px;
+} */
+
+/* parent je glavni (relativan) */
+/* .plava {
+    background: green;
+    position: relative;
+} */
+
+/* top: 0 od vrha 0px , moze slobodno da se krece unutar diva(parent) */
+/* .naslov {
+    position: absolute;
+    top: 0;
+    left: 30px;
+    bottom: 20px;
+    color: white;
+    color: dodgerblue;
+} */
+
+
+
+/* vezba */
+
+/* .vezbaDiv {
+    position: relative;
+} */
+
+/* background-image: url("img/ferrari_auto_f1.webp"); */
+/* .img2 {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+} */
+
+/* .vezbaText {
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 50%;
+} */
+
+
+
+
+
+
+
+
+
+/* .img {
+    width: 350px;
+}
+
+.plava {
+    background: blue;
+    position: relative;
+} */
+
+/* .naslov {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    color: white;
+    color: black;
+} */

@@ -1,0 +1,297 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container {
+	width: 1080px;
+	margin: 0 auto;
+}
+
+.mainHeader {
+    
+}
+
+.navbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px;
+	background: black;
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar li {
+	list-style: none;
+}
+
+.navbar li a {
+	text-decoration: none;
+	color: white;
+    transition: 1s ease;
+    margin-right: 20px;
+}
+
+.navbar li a:hover {
+    color: dodgerblue;
+}
+
+.logo {
+	color: white;
+    transition: 1s ease;
+}
+
+.logo:hover {
+    color: dodgerblue;
+    cursor: pointer;
+}
+
+.newClothingCollection {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: gray;
+    text-align: center;
+    height: 300px;
+}
+
+
+
+.newArrivales {
+	margin-top: 50px;
+	background: lightgray;
+	padding: 50px;
+
+	text-align: center;
+}
+
+.newArriTitle {
+    margin-bottom: 20px;
+}
+
+.newProduct {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.product {
+	background: dodgerblue;
+	background: white;
+	width: 27%;
+	border: 2px solid white;
+
+	height: 350px;
+}
+
+.productDiv {
+	width: 100%;
+	height: 200px;
+	background: grey;
+	padding: 15px;
+}
+
+.product h3 {
+    margin-top: 30px;
+}
+
+.viewMoreBtn {
+	border-radius: 25px;
+	border: 3px solid black;
+	width: 200px;
+	padding: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+
+
+.blog {
+    padding: 50px;
+    
+}
+
+.storyHolder {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block {
+    background: gray;
+    width: 48%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blockBlog {
+    width: 48%;
+}
+
+.mostViewed {
+    padding: 50px;
+    display: flex;
+    gap: 20px;
+}
+
+.mostViewed div {
+    background: gray;
+    width: 30%;
+    height: 200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.newSeason {
+    text-align: center;
+    background: lightgray;
+    padding: 50px;
+}
+
+.newProduct {
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product2 {
+    background: white;
+    width: 28%;
+    margin-bottom: 50px;
+}
+
+.productDiv2 h3 {
+    margin-top: 20px;
+}
+
+.productDiv2 {
+    background: gray;
+    height: 300px;
+}
+
+
+.secureSection {
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.secureDiv {
+    background: gray;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 100px 0;
+}
+
+.secureDiv p {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+
+
+.footer {
+    background: gray;
+    padding: 50px;
+    color: white;
+
+    
+}
+
+.footer div li {
+    list-style: none;
+}
+
+.footer li a {
+    text-decoration: none;
+    color: white;
+}
+
+.col {
+    width: 24%;
+}
+
+.footer .col {
+    display: inline-block;
+}
+
+.col div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+
+.col div input {
+    width: 200px;
+    padding: 10px;
+}
+
+.formBtn {
+    border: none;
+    background: lightgray;
+    margin-top: 10px;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+} */
